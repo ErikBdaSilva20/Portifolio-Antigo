@@ -1,0 +1,65 @@
+/* Estilos gerais para os blocos */
+.block {
+    background-color: #383838f4;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.text-light-bold {
+    color: #f1f1f1;
+    font-weight: 500;
+}
+
+.text-danger {
+    color: #ff0000;
+}
+
+/* Soft Skills */
+.soft-skills-heading {
+    font-weight: bold;
+    margin: 1rem;
+    border-bottom: 2px solid #f44336;
+    padding: 0.5rem;
+    border-radius: 5px;
+    color: #f1f1f1;
+}
+
+.soft-skills-text {
+    font-weight: 500;
+    color: #f1f1f1;
+}
+
+/* Cores específicas para as competências técnicas */
+.html {
+    color: #ff5900;
+}
+
+.css {
+    color: #0077ff;
+}
+
+.javascript {
+    color: #fff200;
+}
+
+.bootstrap {
+    color: #ea00ff;
+}
+
+.react {
+    color: #00eeff;
+}
+
+.git-github {
+    color: #ff0000;
+}
+
+.nodejs {
+    color: #00ff2f;
+}
+
+.mongodb {
+    color: #006d0d;
+}

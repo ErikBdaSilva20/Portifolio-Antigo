@@ -1,0 +1,32 @@
+/* Estilos gerais */
+.about-section {
+    margin-top: 3rem;
+}
+
+.about-card {
+    background-color: #383838f4;
+    display: relative;
+    margin-top:25vh;
+}
+
+
+
+.section-title {
+    color: #e74c3c;
+    font-weight: bold;
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-bottom: 3px solid #e74c3c;
+    border-radius: 0.5rem;
+}
+
+.about-text {
+    color: #d3d3d3;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.highlight-text {
+    color: #e74c3c;
+    font-weight: bold;
+}
