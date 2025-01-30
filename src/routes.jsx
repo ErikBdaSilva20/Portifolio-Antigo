@@ -6,19 +6,19 @@ import MyProjects from "./Pages/MyProjects";
 
 const router = createBrowserRouter([
   {
-    path: "/Meu_Portifolio",
+    path: "/Minha_Pag_Portifolio",
     element: <Home />,
   },
   {
-    path: "/Meu_Portifolio/SobreMim",
+    path: "/Minha_Pag_Portifolio/SobreMim",
     element: <AboutMe />,
   },
   {
-    path: "/Meu_Portifolio/Habilidades",
+    path: "/Minha_Pag_Portifolio/Habilidades",
     element: <MyAbilities />,
   },
   {
-    path: "/Meu_Portifolio/Projetos",
+    path: "/Minha_Pag_Portifolio/Projetos",
     element: <MyProjects />,
   },
 ]);
