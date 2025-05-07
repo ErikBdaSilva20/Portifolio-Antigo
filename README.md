@@ -37,7 +37,6 @@
 
 <h2>🌍 Links Importantes:</h2>
 <ul>
-  <p>Imagens do projeto no linkedin abaixo</p>
   <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erik-borges-silva/" target="_blank">https://www.linkedin.com/in/erik-borges-silva/</a></li>
   <li>🌐 <strong>Projeto no GitHub Pages:</strong> <a href="https://erikbdasilva20.github.io/Minha_Pag_Portifolio/" target="_blank">https://erikbdasilva20.github.io/Minha_Pag_Portifolio/</a></li>
 </ul>
