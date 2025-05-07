@@ -1,4 +1,8 @@
-<h1 style="text-align: center;">🚀 Meu Portfólio Pessoal - Apresentação Profissional e Interativa 🎨</h1>
+ **Portifólio ANTIGO, optei por mantelo no Github para comparar minha evolução na programação, em breve colocarei o link do portifólio atualizado**
+
+<H2>❗Projeto desatualizado</H2>
+
+<h3 style="text-align: center;">🚀 Portfólio Pessoal - Apresentação Profissional e Interativa 🎨</h3>
 
 <p style="text-align: center;">
   Este é o meu <strong>portfólio pessoal</strong>, desenvolvido utilizando <strong>React</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>Bootstrap</strong>. Ele visa demonstrar minhas habilidades técnicas, projetos realizados, e proporcionar uma forma fácil de contato. Além disso, foi criado para ser uma plataforma interativa, com várias seções, como <strong>Sobre Mim</strong>, <strong>Minhas Habilidades</strong>, <strong>Projetos</strong> e uma seção de  <strong>Contato</strong> via <strong>WhatsApp</strong> e <strong>Gmail</strong> na home para facil observação.
