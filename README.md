@@ -3,7 +3,6 @@
  <a><h3> 📒https://erikbdsilva-hg.online</h3></a>
 
  
-
 <H2>❗Projeto desatualizado</H2>
 
 <h3 style="text-align: center;">🚀 Portfólio Pessoal - Apresentação Profissional e Interativa 🎨</h3>
