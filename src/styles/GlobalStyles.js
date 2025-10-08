@@ -32,7 +32,6 @@ body::after {
   background-color: rgba(5, 0, 0, 0.582);
   z-index: -1;
 }
-
-`
+`;
 
 
