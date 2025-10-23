@@ -1,9 +1,12 @@
  **Portifólio ANTIGO, optei por mantelo no Github para comparar minha evolução na programação, link do portifólio atualizado**
-
  <a><h3> 📒https://erikbdsilva-hg.online</h3></a>
+ 
+ <h1>Aqui está o link do vídeo para que você possa assistir como ele estava antes</h1>
+ 📽️ Vídeo no YouTube: https://www.youtube.com/watch?v=u5ixCkudq-w
 
  
 <H2>❗Projeto desatualizado</H2>
+<br/>
 
 <h3 style="text-align: center;">🚀 Portfólio Pessoal - Apresentação Profissional e Interativa 🎨</h3>
 
@@ -31,14 +34,15 @@
 
 <h2>🚀 Tecnologias Utilizadas:</h2>
 <p style="text-align: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge">
 </p>
 
-<h2>🌍 Links Importantes:</h2>
-<ul>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erik-borges-silva/" target="_blank">https://www.linkedin.com/in/erik-borges-silva/</a></li>
-</ul>
+<h2>🌟 Links</h2>
+
+📂 Repositório no GitHub: [https://github.com/ErikBdaSilva20/Portifolio-Antigo](https://github.com/ErikBdaSilva20/Portifolio-Antigo)
+
+🌐 Projeto exibido no YouTube: [https://www.youtube.com/watch?v=u5ixCkudq-w](https://www.youtube.com/watch?v=u5ixCkudq-w)
+
+🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
