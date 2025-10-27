@@ -4,9 +4,9 @@ import ButtonNavigate from "./styles"; // Componente customizado
 function Buttons() {
   const navigate = useNavigate();
   const buttons = [
-    { path: "/Minha_Pag_Portifolio/Projetos", label: "Projetos" },
-    { path: "/Minha_Pag_Portifolio/SobreMim", label: "Sobre Mim" },
-    { path: "/Minha_Pag_Portifolio/Habilidades", label: "Habilidades" },
+    { path: "/Portifolio-Antigo/Projetos", label: "Projetos" },
+    { path: "/Portifolio-Antigo/SobreMim", label: "Sobre Mim" },
+    { path: "/Portifolio-Antigo/Habilidades", label: "Habilidades" },
   ];
 
   return (
