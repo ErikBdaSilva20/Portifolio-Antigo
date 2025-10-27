@@ -43,6 +43,6 @@
 
 📂 Repositório no GitHub: [https://github.com/ErikBdaSilva20/Portifolio-Antigo](https://github.com/ErikBdaSilva20/Portifolio-Antigo)
 
-🌐 Projeto exibido no YouTube: [https://www.youtube.com/watch?v=u5ixCkudq-w](https://www.youtube.com/watch?v=u5ixCkudq-w)
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/Portifolio-Antigo](https://erikbdasilva20.github.io/Portifolio-Antigo/)
 
 🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
